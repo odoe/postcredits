@@ -1,0 +1,10 @@
+{
+  "name": "postcredits",
+  "version": "1.0.0",
+  "description": "Add post credits to your site",
+  "main": "index.js",
+  "types": "./index.d.ts",
+  "keywords": ["postcredits", "browser"],
+  "author": "Rene Rubalcava",
+  "license": "MIT"
+}

@@ -1,0 +1,1 @@
+export function postCredits(text?: string): void
